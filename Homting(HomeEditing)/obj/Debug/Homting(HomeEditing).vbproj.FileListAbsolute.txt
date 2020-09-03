@@ -1,0 +1,13 @@
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\bin\Debug\Homting(HomeEditing).exe.config
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\bin\Debug\Homting(HomeEditing).exe
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\bin\Debug\Homting(HomeEditing).pdb
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\bin\Debug\Homting(HomeEditing).xml
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\obj\Debug\Homting_HomeEditing_.AboutApp.resources
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\obj\Debug\Homting_HomeEditing_.Form1.resources
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\obj\Debug\Homting_HomeEditing_.Resources.resources
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\obj\Debug\Homting_HomeEditing_.Toolbox.resources
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\obj\Debug\Homting(HomeEditing).vbproj.GenerateResource.cache
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\obj\Debug\Homting(HomeEditing).vbproj.CoreCompileInputs.cache
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\obj\Debug\Homting(HomeEditing).exe
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\obj\Debug\Homting(HomeEditing).xml
+C:\Users\Diar\source\repos\Homting(HomeEditing)\Homting(HomeEditing)\obj\Debug\Homting(HomeEditing).pdb
